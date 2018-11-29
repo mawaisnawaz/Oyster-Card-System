@@ -1,0 +1,18 @@
+{
+    "scripts": {
+        "test": "jest",
+        "start": "node index.js"
+    },
+    "devDependencies": {
+        "jest": "^23.6.0"
+    },
+    "jest": {
+        "testMatch": [
+            "<rootDir>/**/__tests__/**/*.js?(x)",
+            "<rootDir>/**/?(*.)(spec|test).js?(x)"
+        ]
+    },
+    "dependencies": {
+        "parse": "^2.1.0"
+    }
+}
