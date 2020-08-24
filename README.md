@@ -1,4 +1,4 @@
-# Oyster-Card-System
+# Oyster Card Problem
 
 The Oyster Card Problem
 You are required to model the following fare card system which is a limited version of
