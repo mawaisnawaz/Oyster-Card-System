@@ -13,6 +13,6 @@
         ]
     },
     "dependencies": {
-        "parse": "^2.1.0"
+        "parse": "^2.10.0"
     }
 }
